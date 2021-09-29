@@ -5,6 +5,8 @@ for my youtube channel. You can watch the [youtube tutorial here](https://youtub
 
 ## Preview
 
+See [Demo](https://podcestera.vercel.app/)
+
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/codingwithdidem/Podcestera)
 
 ## How to use
