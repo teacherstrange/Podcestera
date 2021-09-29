@@ -1,7 +1,7 @@
 # Welcome To Podcestera
 
 Where you can listen countless podcasts. This is a GraphCMS & NextJS & Tailwindcss tutorial which I built
-for my youtube channel. You can watch the [youtube tutorial here](https://youtube.com/).
+for my youtube channel. You can watch the [youtube tutorial here](https://youtu.be/j2nsQRrZuCA).
 
 ## Preview
 
